@@ -1,0 +1,10 @@
+﻿  match.c
+f:\post1\computer vision\project\project1\project1\match.c(25): warning C4013: “descriptor”未定义；假设外部返回 int
+f:\post1\computer vision\project\project1\project1\match.c(25): warning C4047: “初始化”:“double ***”与“int”的间接级别不同
+f:\post1\computer vision\project\project1\project1\match.c(26): warning C4047: “初始化”:“double ***”与“int”的间接级别不同
+f:\post1\computer vision\project\project1\project1\match.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double *”
+f:\post1\computer vision\project\project1\project1\match.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“double *”
+f:\post1\computer vision\project\project1\project1\match.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“double *”
+f:\post1\computer vision\project\project1\project1\match.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 6 拥有了类型“double *”
+  Project1.vcxproj -> F:\Post1\Computer vision\Project\Project1\Debug\Project1.exe
+  Project1.vcxproj -> F:\Post1\Computer vision\Project\Project1\Debug\Project1.pdb (Partial PDB)
